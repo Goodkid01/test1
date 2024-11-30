@@ -2,7 +2,9 @@
 
 int main()
 {
-	std::cout << "Hello, pmpppp" << std::endl;
-    return 0;
+    int a=324;
+    int b=4;
+    int c=a+b;
+	std::cout <<c<< std::endl;
+     
 }
-
