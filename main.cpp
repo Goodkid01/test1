@@ -22,12 +22,8 @@
 
 int main()
 {
-<<<<<<< HEAD
-    int a=324;
-=======
-    int a=321123;
->>>>>>> c55adea80769807f0770dc710042cecdc0603e7e
-    int b=4;
+    int a=323324324;
+    int b=43;
     int c=a+b;
 	std::cout <<c<< std::endl;
      
